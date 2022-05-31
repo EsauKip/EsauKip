@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React
 - 💬 Ask me about Flask, Django, Angular, PostGres
 - 😄 Pronouns: Her ✨
--  📫 How to reach me: mercycherotich757@gmail.com
+-  📫 How to reach me: kipronoesau28@gmail.com
 
 <!--
 **EsauKip/EsauKip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
