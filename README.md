@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <!-- [![wakatime](https://wakatime.com/badge/user/b44b1356-dee7-4791-a127-91e80dac6093.svg)](https://wakatime.com/@b44b1356-dee7-4791-a127-91e80dac6093)  -->
-
+                                                [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsauKip&show_icons=true&theme=radical&count_private=true)](https://github.com/EsauKip/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsauKip&layout=compact)](https://github.com/EsauKip/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cyberboolean)](https://github.com/anuraghazra/github-readme-stats)  
