@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on  Python Web in Django
 - 🌱 I’m currently learning React
 - 💬 Ask me about Flask, Django, Angular, PostGres
-- 😄 Pronouns: Her ✨
+- 😄 Pronouns: Mr ✨
 -  📫 How to reach me: kipronoesau28@gmail.com
 
 <!--
