@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kipro)](https://github.com/anuraghazra/github-readme-stats)  
 
 
-
+[![wakatime](https://wakatime.com/badge/github/EsauKip/portfolio.svg)](https://wakatime.com/badge/github/EsauKip/portfolio)
 
 <!-- <a href="https://wakatime.com"><img height=400px src="https://wakatime.com/share/@CyberBoolean/70badf7b-de41-497e-9241-6c2f3a80dfb2.png" /></a> !-->
 
