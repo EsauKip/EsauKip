@@ -1,7 +1,7 @@
 ### Hi everyone 👋 I'm Esau Kiprono✨✨
-- 🔭 I’m currently working on  Python Web in Django
+- 🔭 I’m currently working on  React
 - 🌱 I’m currently learning React
-- 💬 Ask me about Flask, Django, Angular, PostGres
+- 💬 Ask me about Flask, Django, Angular,React, Postgresql
 - 😄 Pronouns: Mr ✨
 -  📫 How to reach me: kipronoesau28@gmail.com
 
@@ -33,5 +33,6 @@ Here are some ideas to get you started:
 <!-- <a href="https://wakatime.com"><img height=400px src="https://wakatime.com/share/@CyberBoolean/70badf7b-de41-497e-9241-6c2f3a80dfb2.png" /></a> !-->
 
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkipro%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+https://wakatime.com/badge/github/EsauKip/portfolio.svg
+<a href="https://wakatime.com/badge/github/EsauKip/portfolio"><img src="https://wakatime.com/badge/github/EsauKip/portfolio.svg" alt="wakatime"></a>
 
