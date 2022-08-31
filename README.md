@@ -25,7 +25,7 @@ Here are some ideas to get you started:
                                                                   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsauKip&show_icons=true&theme=radical&count_private=true)](https://github.com/EsauKip/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kipro&layout=compact)](https://github.com/EsauKip/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kipro)](https://github.com/anuraghazra/github-readme-stats)  
+  
 
 
 [![wakatime](https://wakatime.com/badge/github/EsauKip/portfolio.svg)](https://wakatime.com/badge/github/EsauKip/portfolio)
@@ -33,6 +33,5 @@ Here are some ideas to get you started:
 <!-- <a href="https://wakatime.com"><img height=400px src="https://wakatime.com/share/@CyberBoolean/70badf7b-de41-497e-9241-6c2f3a80dfb2.png" /></a> !-->
 
 
-https://wakatime.com/badge/github/EsauKip/portfolio.svg
-<a href="https://wakatime.com/badge/github/EsauKip/portfolio"><img src="https://wakatime.com/badge/github/EsauKip/portfolio.svg" alt="wakatime"></a>
+
 
